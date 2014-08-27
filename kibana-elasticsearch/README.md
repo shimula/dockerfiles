@@ -1,6 +1,8 @@
 Kibana+Elasticsearch Sample
 =====
 
+Sample "Kibana + Elasticsearch + Nginx" using Docker.
+
 # Usage
 
 To build the image
